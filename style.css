@@ -1,0 +1,32 @@
+h1{
+    color: rgb(0, 0, 255);
+
+}
+.header{
+    background-color: rgba(204, 0, 255, 0.746);
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h2{
+    color: brown;
+}
+
+body{
+    background-color: rgb(151, 194, 207);
+}
+img{
+    border: 5px solid rgb(255, 255, 0);
+    border-radius: 40px;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: italic;
+}
+ol,ul{
+    font-family: 'Times New Roman', Times, serif;
+}
